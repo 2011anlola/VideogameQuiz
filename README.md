@@ -1,3 +1,5 @@
+Proyecto de estudiante // Student project
+
 ** Español **
 
 En este proyecto he creado un quiz de videojuegos usando HTML5, CSS, Bootstrap y Javascript. La aplicación y el código están escritos en inglés.
