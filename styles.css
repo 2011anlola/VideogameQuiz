@@ -1,0 +1,8 @@
+.custom-bg-quiz {
+    background-color: #adc8ec;
+}
+
+.character {
+    display: inline-block;
+    transition: color 0.3s;
+}
